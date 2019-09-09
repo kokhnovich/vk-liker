@@ -7,6 +7,10 @@ USER_ID = '-22079806'
 LIKE = True
 
 
+# time between likes
+# in seconds
+TIMEOUT = 0.5
+
 with open("LOGINS", 'r') as file:
     LOGIN = file.readline()
     PASSWD = file.readline()
