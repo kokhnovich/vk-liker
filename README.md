@@ -7,3 +7,4 @@ If you want to like all the wall of your favourite group or person, you don't ne
 BTW, if your favourive one is group, write the id with minus value, like "-22079806" will like all post by "https://vk.com/officialpages"
 
 P.S. after many likes you need to handle captcha by your own hands :)
+P.S. you can change TIMEOUT variable to decrease the probability of captcha.
